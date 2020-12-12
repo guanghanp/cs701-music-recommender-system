@@ -47,6 +47,6 @@ Our final results are based on models trained using only 20\% of the available t
 
 ### references
 - [WSDM - KKBox's Music Recommendation Challenge](https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data)
-- [Link to our paper]()
+- [Link to our paper](https://drive.google.com/file/d/13_26Vy5jBWf9kRodupv3GjqaC3eVInVI/view?usp=sharing)
 
 
